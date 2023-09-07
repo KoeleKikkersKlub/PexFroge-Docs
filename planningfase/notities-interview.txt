@@ -1,0 +1,145 @@
+Q: wat voor (primaire/ secondaire) kleuren patroon wilt u?
+A: Alfa kleuren, eventueel van de website te jatten
+
+Q: heeft u een specifieke thema in gedachten?
+A: De (web)applicatie moet rust uitstralen, alle functionaliteiten hoeven niet per se in de app te zitten.
+
+We zouden 3 apps kunnen bouwen; 1 voor docenten, 1 voor studenten en 1 voor bedrijven. (Eventueel geen docentenapp, die regelen alles via de webapp)
+
+
+
+Q: heeft u een specifieke font in gedachten?
+A: Prettig leesbaar, prettige letters, betekent niet dat de lettertype die alfa gekozen heeft prettig is, maar het moet een prettig lettertype zijn
+
+Q: welke rollen zijn er in de applicatie? (student, leeraar, stagebegeleider)
+A: 
+- Student
+- Docent
+- stagecoordinator
+- bedrijf
+
+Q: Kan een stagecoordinator een docent zijn?
+A: Ja. Een docent kan ook een stagecoordinator zijn. Het toewijzen van meerdere rollen moet mogelijk zijn.
+
+Q: En welke rechten hebben deze rollen?
+A: 
+
+Q: Wat moet een student kunnen en niet kunnen
+A: Een student moet een CV kunnen zien/ maken of uploaden, Dit CV moet zichtbaar kunnen zijn voor de docent en het bedrijf, Eventueel matchmaking op specifieke rollen die in het CV staan (front/ backend specializering etc) 
+
+- Bedrijven moeten kunnen zoeken op bepaalde skillsets en moeten benodigde skillsets in hun profiel kunnen zetten zodat studenten daar naar kunnen zoeken.
+Studenten die interesse tonen in gamedevelopment moeten bijvoorbeeld niet allemaal bedrijven tegenkomen die op zoek zijn naar studenten met een achtergrond in web ontwikkeling etc.
+
+- Het moet mogelijk zijn studenten en bedrijven tags toe te wijzen.
+
+- Voor de applicatie hoeven we alleen aan onze afdeling na te denken (ICT gerelateerde opleidingen.)
+
+- Eventueel tags voor specifieke programmeertalen etc.
+
+
+
+
+
+Q: hoe moeten de gebruikers zich kunnen inloggen? (Met code naar email, of Microsoft mail)
+A: Het mooiste zou zijn om SSO te gebruiken maar dat kan lastig zijn te regelen.
+Excelbestandje met logins kunnen uploaden voor docenten en dan kunnen studenten een eigen login aanmaken.
+Ditzelfde principe geld dan voor docenten.
+
+
+
+Q: Welke gegevens moeten in deze csv komen te staan?
+A: Alleen email en eventueel leerlingnummer vanwege privacywetgeving.
+Email adres invullen en dan krijg je een link toegestuurd waarmee je je account kunt activeren en finalizeren.
+Leerlingnummer invoeren ter bevestiging zou eventueel kunnen.
+
+
+Q: Hoe krijgen we een overzicht van bedrijven?
+A: Kijken of de api van stagemarkt beschikbaar is en anders een andere api voor het vinden van bedrijven binnen een bepaalde radius. Eventueel zouden we anders kunnen scrapen.
+Het zou handig kunnen zijn om te kunnen zoeken op bedrijven binnen een bepaalde afstand van het huis van de studiedeelnemer, of te zoeken op transporttijd.
+Bedrijven zouden zich via de bulkinport kunnen aanmelden. Niet automatisch een profiel aanmaken maar wachten tot een bedrijf zich heeft geverifieerd via de coordinator.
+
+
+Q: Welke data is er nodig om een bedrijv te kunnen registreren
+
+A: Registratienummer via stagemarkt (dan is er ook een KVK nummer en is het een bekend bedrijf), veld waar bijvoorbeeld een foto geupload kan worden, en een veld waar ze hun bedrijf kunnen promoten (flavour text), en contactgegevens.
+
+
+Q: 2FA?
+A: Het mag, is veiliger, optioneel is het beste want de site moet gebruiksvriendelijk zijn. Geen microsoft office praktijken.
+
+Q: moet er een chat systeem komen in de applicatie om contact te houden met de stagiairs?
+A: Voor docenten, ja. Dit hoeft alleen text te ondersteunen, attachments is niet nodig.
+
+Q: Autorefresh van chat nodig zonder zichtbare?
+A: Ja.
+
+Q: Op welke manier word een student beoordeeld?
+A: Dat is een hele leuke, ik had zelf bedacht, gewoon met een beoordelingsformulier;
+
+
+er komt ene indicatiebalk waarin het hele traject zichtbaarwordt.
+
+Voortraject, solicitatie, POK
+stagetraject, logbestanden met uren/ urenregistrate met webformulier, in het stageproces mogen studenten hun handboek vinden. Surogaatdeadline en definitieve deadline moet zichtbaar zijn 
+
+akkoord geven op de uren, akkoord op stageverslag en beoordeling op het stageverslag zelf (Voldoende/onvoldoende/goed, of cijfer 0-10).
+
+Stagebegeleider/docent ziet het hele traject.
+De indicatiebalk geeft aan hoe ver het traject gevorderd is.
+
+rechten: Student moet niet de POK kunnen aanpassen maar wel lezen.
+Docent moet een POK ook niet aan kunnen passen. (Eventueel doorsturen met signaaltje. Dit zou ook automatisch via een notificatie kunnen.)
+
+Digitaal akkoord met POK hoeft niet.
+
+
+Q: Urenregistratie
+A: Mag met het uploaden van een bestand. Het beste zou zijn via een webformulier. Overzicht vergelijkbaar met het exceldocument. 
+(Nice to have)
+
+
+Q: Hoe komt het solicitatie proces in de applicatie eruit tezien, en welke informatie is daarvoor nodig?
+A: Kan via stagemarkt gezien worden
+
+
+
+Hoe vullen stagaires hun stage uren in? en hoe keuren de belegeiders die goed?
+
+Hoe ziet een tussentijdse beoordeling eruit?
+
+Wie is de stagecoördinator?
+
+wat willen jullie anders zien ter opzichte van OnStage?
+
+
+
+Hion-V — Today at 1:14 PM
+
+Q: Moet het inleveren van documenten bestandstype-agnostisch zijn, of gelimiteerd aan standaardformaten (bijv. docx, pdf, .xls etc)?
+A: Agnostisch is prima.
+
+Q: Moet de applicatie push notificaties kunnen sturen? (en eventueel ook via email)
+A: Hoeft niet, mag wel, eventueel afhankelijk van of het dwingent of irritant is, dat is niet de bedoeling. Email notificatie is juist wenselijk.
+
+Zelf uitzoeken hoe en wat we dit doen voor studenten. Voor docenten niet wenselijk. Deadline reminders eventueel een goed idee.
+
+Q: Kan een begeleider feedback leveren op ingeleverde producten?
+A: 
+
+
+
+Q: Welke gegevens moeten we verwerken en opslaan voor alle rollen?
+A: Persoonsgegevens moeten ingevuld worden door de student zelf. Zelf even uitzoeken wat relevant is.
+
+Q: Zijn er nog andere overzichten moeten we in de applicatie verwerken?
+A: Niet echt.
+
+Q: Overzicht om te bekijken of iemand al wat heeft ingeleverd?
+A: Overzicht van een klas voor docenten met een lijst van alle studenten en hun trajectvoortgang statusbalk. Niet visueel te druk, maar eventueel neutrale tinten van een bepaalde kleur. Hier kan een klein textvakje onder met de huidige status van de voortgang.
+
+
+Q: Moet het mogelijk zijn gegevens te kunnen importeren/ exporteren via een tussenformaat (zoals CSV, JSON, etc)
+A: Al reeds besproken.
+
+Q: Wat wilt u anders zien in deze website met vergelijking van onstage
+A: Prettig gevoelsmatig, intuitief systeem. Look en feel moet goed zijn, hoeft geen gigantische rotzooi van features te worden. Logische inrichting.

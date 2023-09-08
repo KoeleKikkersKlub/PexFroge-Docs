@@ -1,0 +1,46 @@
+Kleuren: alfa kleuren
+Thema: prettige look and feel en moet rust uitstralen
+Font: font van de app.
+App is alleen voor software development.
+
+3 soorten apps, 1 voor de bedrijf, 1 voor docent, 1 voor student.
+
+Rollen: student, docent, stage coordinator, bedrijf.
+Een docent kan ook een stage coordinator zijn.
+
+Student: een student moet een cv kunnen maken/uploaden. Deze moet zichtbaar zijn voor docent, stage coordinator en bedrijf zichtbaar.
+In de cv moeten skills toegevoegd worden waardoor er automatisch gezocht kan worden naar geschikte bedrijven (bijv game development, php, front-end, etc).
+
+Inloggen: 
+-Zodra iemand voor de eerste keer inlogt moet er een mail gestuurd worden met een wachtwoord link waarin iemand zijn eerste wachtwoord kan maken.
+Daarna inloggen met gebruikersnaam wachtwoord.
+
+-2fa moet voor iedereen beschikbaar zijn als ze dit willen, dit is optioneel.
+
+Eventueel google maps integreren waarin je kan zoeken naar bedrijven rondom x aantal km van je huis of x aantal tijd met OV van je huis.
+
+-Bedrijven moeten zich bij alfa aan kunnen melden om het bedrijf zichtbaar te maken in de app. De stage coordinator moet checken of dit bedrijf ook daadwerkelijk bestaat. (Bedrijfnaam, registratie nummer stagemarkt, zoektags voor filtering, foto van bedrijven, veld met beschrijving van het bedrijf, email van bedrijf, contactpersoon, adres).
+
+Chatsysteem
+-Er moet een chat systeem komen waarin alleen tekst gestuurd kan worden. Er zou geen page reload zichtbaar moeten zijn als er een nieuwe chat komt.
+
+Beoordeling student:
+Er komt een indicatie balk met periodes waarbij dingen ingeleverd kunnen worden.
+Dit traject moet door de student en de docent ingeleverd kunnen worden.
+De POK moet vanaf daar gedownload en geupload kunnen worden.
+Deze moet alleen ingelezen kunnen worden.
+Beoordeling van stage verslag mag beoordeeld worden met onvoldoende, voldoende, goed of 1-10.
+
+Stageuren kan geregistreerd worden via een excel of word document, of een formuliertje waarin studenten dat in kunnen leveren.
+
+Alle soorten bestandsformaten moeten bij het inleveren van stageverslagen ingeleverd kunnen worden.
+
+Push notifications is nice to have, over de mail is het wel handig.
+Belangrijke meldingen zijn wel handig, met name voor studenten.
+
+Persoonsgegevens moeten over nadenken wat we op willen slaan.
+
+Overzicht voor de docenten waarin je met een progress bar en tekstje kan zien hoe ver iemand is in een stage proces.
+
+Het moet een prettig, goed werkend systeem worden.
+Onstage is onoverzichtelijk en niet logisch.

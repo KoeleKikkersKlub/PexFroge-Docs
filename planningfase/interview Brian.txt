@@ -1,0 +1,88 @@
+* wat voor (primaire/ secondaire) kleuren patroon wilt u?
+
+- Alfa-College kleuren
+
+
+* heeft u een specifieke thema in gedachten?
+
+- Alfa-college thema. Moet er prettig uit zien. App moet rust uitstralen. 
+
+
+* heeft u een specifieke font in gedachten?
+
+- Zelfde als in alfa.
+
+
+* welke rollen zijn er in de applicatie? (student, leraar, stagebegeleider)
+  en welke rechten hebben deze rollen?
+
+- student, docent, stagecoördinator, bedrijf. 1 persoon kan 1 of meerdere rollen hebben, een docent kan ook een stagecoördinator zijn. 
+  
+
+
+* hoe moeten de gebruikers zich kunnen inloggen? (Met code naar email, of Microsoft mail)
+  met 2fa?
+
+- inlogsysteem moet er komen. Mooiste is dat het gekoppeld word aan Alfa-college. Maar we moeten gewoon email, leerningnummer en wachtwoord werken die je gegevens opslaan. (One time sign in) 
+
+
+* moet er een chat systeem komen in de applicatie om contact te houden met de stagiairs?
+
+- Alleen text is nodig. Attachments zijn niet nodig. (Notificaties zonder pagina refresh)
+
+
+* op welke manier word een student beoordeeld?
+
+- Beoordelingsformulier. Stageverslag word beoordeeld met een Cijfer of onvoldoende/voldoende/goed. Docent en Student ziet het stagetraject. Student en docent moet de POK kunnen zien maar niet aanpassen
+
+
+* Hoe komt het solicitatie proces in de applicatie eruit tezien, en welke informatie is daarvoor nodig?
+
+- 
+
+
+* Hoe vullen stagaires hun stage uren in? en hoe keuren de belegeiders die goed? 
+
+- Maakt opzich niet uit maar het moet overzichtelijk zijn. 
+
+
+* Hoe ziet een tussentijdse beoordeling eruit?
+
+- 
+
+
+* Wie is de stagecoördinator?
+
+* Moet het inleveren van documenten bestandstype-agnostisch zijn, of gelimiteerd aan standaardformaten (bijv. docx, pdf, .xls etc)?
+
+- Niks specifiek
+
+
+* Moet de applicatie push notificaties kunnen sturen? (en eventueel ook via email)
+
+- Hoeft niet, mag wel. Met specifieke dingen voor de student is het wel handig. 
+
+
+* Kan een stagebegeleider feedback leveren op ingeleverde producten?
+
+- 
+
+
+* Welke gegevens moeten we verwerken en opslaan voor alle rollen?
+
+- Alle account-related gegevens
+
+
+* Welke overzichten moeten we in de applicatie verwerken?
+
+- klassenoverzicht. progressiebar.
+
+
+* Moet het mogelijk zijn gegevens te kunnen importeren/ exporteren via een tussenformaat (zoals CSV, JSON, etc)
+
+- 
+
+
+* wat willen jullie anders zien ter opzichte van OnStage?
+
+- Moet een heel prettig, goedwerkend systeem zijn. Het moet Logisch zijn. 

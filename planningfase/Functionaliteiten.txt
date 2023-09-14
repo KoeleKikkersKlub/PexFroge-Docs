@@ -34,7 +34,7 @@
 
 -Er moet een overzicht komen voor de docenten zodat ze makkelijk alle statussen van alle stages kunnen zien.
 
--Een docent mag een CSV uploaden met emails van studenten voor de SSO.
+-Een docent mag een CSV uploaden met emails van studenten voor de single sign on.
 
 -Proces van student zichtbaar (voortraject, sollicitatie, POK)
 

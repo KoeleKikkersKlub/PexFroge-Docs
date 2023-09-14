@@ -1,0 +1,34 @@
+-Een student moet een cv kunnen uploaden
+
+-De student moet tags kunnen toevoegen aan zijn cv
+
+-Een bedrijf moet studenten kunnen vinden op basis van tags
+
+-Een student moet bedrijven kunnen vinden op basis van tags
+
+-De stagebegeleider, de docent, bedrijven en de stage coordinator moet de cv van de student kunnen inzien
+
+-Een student moet kunnen inloggen met e-mailadres, leerlingnummer en wachtwoord
+
+-Iedere gebruiker moet de eerste keer bij het inloggen een wachtwoord aan kunnen maken
+
+-Iedere gebruiker kan 2fa aanzetten
+
+-Een leerling kan bedrijven vinden met een geintegreerde google maps kaart
+
+-Bedrijven moeten een account aan kunnen maken zodat ze studenten kunnen vinden
+
+-Stagecoordinatoren moeten bedrijven kunnen goedkeuren zodat ze te vinden zijn binnen de applicatie
+
+-Studenten moeten kunnen chatten met stagebegeleiders (zonder page reload?)
+
+-Studenten moeten stage verslagen in kunnen leveren (alle bestandstypes)
+
+-Stagebegeleiders moeten stage verslagen kunnen beoordelen met een g, v, ov of met 1-10
+
+-Studenten moeten stageuren kunnen inleveren met een excel/word document of doormiddel van een webformulier
+
+-Gebruikers moeten push notifications aan kunnen zetten zodat ze geen belangrijke meldingen missen
+
+-Er moet een overzicht komen voor de docenten zodat ze makkelijk alle statussen van alle stages kunnen zien.
+

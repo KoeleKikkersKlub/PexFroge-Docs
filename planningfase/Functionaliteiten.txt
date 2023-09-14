@@ -1,12 +1,25 @@
+Hoge prioriteit:
+
 -Een student moet kunnen inloggen met e-mailadres, leerlingnummer en wachtwoord
 
 -Bedrijven moeten een account aan kunnen maken zodat ze studenten kunnen vinden
 
--Stagecoordinatoren moeten bedrijven kunnen goedkeuren zodat ze te vinden zijn binnen de applicatie
+-Stagecoordinatoren moeten bedrijven kunnen goedkeuren zodat ze te vinden zijn binnen de applicatie 
 
 -Iedere gebruiker moet de eerste keer bij het inloggen een wachtwoord aan kunnen maken
 
--Iedere gebruiker kan 2fa aanzetten
+-Studenten moeten stage verslagen in kunnen leveren (alle bestandstypes)
+
+-Stagebegeleiders moeten stage verslagen kunnen beoordelen met een g, v, ov of met 1-10
+
+-Studenten moeten stageuren kunnen inleveren met een excel/word document of doormiddel van een webformulier
+
+-Er moet een overzicht komen voor de docenten zodat ze makkelijk alle statussen van alle stages kunnen zien.
+
+-Proces van student zichtbaar (voortraject, sollicitatie, POK & ingeleverde uren/stageverslag)
+
+
+Medium prioriteit:
 
 -Een student moet een cv kunnen uploaden
 
@@ -16,26 +29,21 @@
 
 -Een bedrijf moet tags kunnen toevoegen aan zijn bedrijfsprofiel
 
--Studenten moeten stage verslagen in kunnen leveren (alle bestandstypes)
-
--Stagebegeleiders moeten stage verslagen kunnen beoordelen met een g, v, ov of met 1-10
-
 -Studenten moeten kunnen chatten met stagebegeleiders (zonder page reload?)
 
 -Een bedrijf moet studenten kunnen vinden op basis van tags
 
 -Een student moet bedrijven kunnen vinden op basis van tags
 
--Een leerling kan bedrijven vinden met een geintegreerde google maps kaart
-
--Studenten moeten stageuren kunnen inleveren met een excel/word document of doormiddel van een webformulier
-
--Gebruikers moeten push notifications aan kunnen zetten zodat ze geen belangrijke meldingen missen
-
--Er moet een overzicht komen voor de docenten zodat ze makkelijk alle statussen van alle stages kunnen zien.
-
 -Een docent mag een CSV uploaden met emails van studenten voor de single sign on.
 
--Proces van student zichtbaar (voortraject, sollicitatie, POK)
 
--Indicatiebalk voor hoe ver een student is
+
+
+Lage prioriteit:
+
+-Iedere gebruiker kan 2fa aanzetten
+
+-Een leerling kan bedrijven vinden met een geintegreerde google maps kaart
+
+-Gebruikers moeten push notifications aan kunnen zetten zodat ze geen belangrijke meldingen missen

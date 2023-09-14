@@ -1,0 +1,16 @@
+Login/registratie systeem:
+
+Een student moet kunnen inloggen door middel van een email en wachtwoord (High)
+Een student moet door een Single Sign On lopen als deze nog geen wachtwoord heeft (High)
+Een student moet een email krijgen om hun account te verifieren na de Single Sign On (High)
+Een student moet hun wachtwoord kunnen veranderen (Medium)
+Een bedrijf moet een account aan kunnen maken om studenten te vinden (High)
+Een docent mag een CSV inleveren met emails (Medium)
+(vervolgens mag de student met email inloggen en gaat door met Single Sign-On.)
+
+Student:
+
+Student moet stageverslag kunnen inleveren
+Student moet POK kunnen bekijken
+Student moet urenregistratie kunnen invullen (excel document of webformulier)
+Student moet hun eindresultaat kunnen zien

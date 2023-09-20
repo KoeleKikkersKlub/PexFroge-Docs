@@ -1,0 +1,47 @@
+21-09-2023 - 27-0-2023:
+
+BACK-END:
+
+-Inlogsysteem student
+
+-Inlogsysteem docent
+
+-Registratie/login systeem bedrijf
+
+-Stage verslag inleveren
+
+-Stage uren inleveren
+
+FRONT-END:
+
+
+-Layout (header, navbar) (Brian)
+
+-Inlog pagina (Tabita)
+
+-Registratie pagina bedrijf (Tabita)
+
+-Registratie pagina student/docent (Tabita)
+
+-Hoofdpagina student (Brian)
+
+-Hoofdpagina docent (Brian)
+
+
+-------------------------------------------
+
+28-09-2023 - 04-10-2023
+
+BACK-END:
+
+-Hoofdpagina student
+
+-Hoofdpagina docent
+
+-Goedkeuren stage bedrijf
+
+
+FRONT-END:	
+
+-studenten pagina voor docent
+-(specifieke) student pagina voor docent
